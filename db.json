@@ -1,0 +1,20 @@
+{
+            "name":"sign",
+            "type":1,
+            "courseware_url":"https://bg.png",
+            "teacher_avatar":"https://avatar.png",
+            "comment_url":"https://commnet.png",
+            "audio_url":"https://sign_intro.mp3",
+            "segment": [{
+                "audio_uri": "https://www.w3school.com.cn/i/song.mp3",
+                "content": "1"
+                }
+
+
+],
+            "action":{
+                "audio_tip":"https://audio_tip.mp3",
+                "text_tip":"直播时签到成功，可获得金币的奖励，记得按时来上课哦",
+                "reward":20
+            }
+}
